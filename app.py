@@ -49,7 +49,7 @@ def mae(y_predicted, y_actual):
      
 
 def main():
-    df = pd.read_csv('stock_price.csv')
+    df = pd.read_csv('data/stock_price.csv')
     st.title("Stock Prediction")
     st.sidebar.title("Stock Prediction Web App")
     st.markdown("There is a risk in everything, so be prepared for the ups and downs.")
