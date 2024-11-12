@@ -31,3 +31,6 @@ pip install -r requirements.txt
 ```
 python app.py (to start the project)
 ```
+
+### Live Server
+**Go To**: [PredictionApp](https://nepali-stock-market-prediction-using.onrender.com/)
